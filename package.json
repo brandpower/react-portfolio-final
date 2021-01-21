@@ -1,7 +1,7 @@
 {
+  "homepage": "https://brandpower.github.io/react-portfolio-final",
   "name": "personalportfolio",
   "version": "0.1.0",
-  "homepage": "https://github.com/brandpower.io/react-portfolio-final",
   "private": true,
   "dependencies": {
     "anix": "^0.3.3",
